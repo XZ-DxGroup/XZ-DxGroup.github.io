@@ -1,12 +1,10 @@
 ---
 layout: post
-title: X-ray Zulu Dx
+title: Post 1
 published: true
 ---
-## Ciao
 
-### Ciao
-
+## Post 1
 
 
 
