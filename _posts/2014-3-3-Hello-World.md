@@ -3,7 +3,7 @@ layout: post
 title: Active members
 published: true
 ---
-
+List of the active members by division.
 
 ## 1 DIVISION – ITALY
 
@@ -21,4 +21,4 @@ published: true
 - 21XZ456 Martin – Lerberget - QSL info via xrayzulubureau@gmail.com
 
 
-## N.B Application must be sent via Email or Telegram 
+## N.B Application must be sent via Email or Telegram
