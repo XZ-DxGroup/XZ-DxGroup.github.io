@@ -8,7 +8,8 @@ published: true
 
 ### Retro QSL per invio cartaceo
 
-![QSLgenericaconsito.png]({{site.baseurl}}/images/QSLgenericaconsito.png)
+![QSLgenericaconsito.png]({{site.baseurl}}/_posts/QSLgenericaconsito.png)
+
 
 ### Fronte
 
@@ -17,6 +18,3 @@ published: true
 ### Retro
 
 ![JS8 QSL 1 TEST EXPORT.png]({{site.baseurl}}/images/JS8 QSL 1 TEST EXPORT.png)
-
-
-
