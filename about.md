@@ -12,7 +12,7 @@ These are the ones who helped and created things that helped XZ Group to grow up
 
 -1XZ001 (Vash) [https://t.me/Vash909](https://t.me/Vash909)
 
--1XZ008 (Nick) [https://t.me/kappakappa01](https://t.me/kappakappa01)
+-1XZ008 (Nick)  [https://t.me/kappakappa01](https://t.me/kappakappa01)
 
 -1XZ009 (Fede) [https://t.me/pit_pat](https://t.me/pit_pat)
 
