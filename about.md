@@ -12,4 +12,4 @@ These are the ones who helped and created things that helped XZ Group to grow up
 -1XZ008 (Nick) 
 -1XZ009 (Fede) 
 
-[xrayzulubureau@gmail.com](mailto:xrayzulubureau@gmail.com)-
+[xrayzulubureau@gmail.com](mailto:xrayzulubureau@gmail.com)
