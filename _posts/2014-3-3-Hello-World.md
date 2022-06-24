@@ -5,6 +5,7 @@ published: true
 ---
 ## Le nostre QSL 
 
+Galleria delle nostre QSL
 
 ### Retro QSL per invio cartaceo
 
@@ -18,3 +19,5 @@ published: true
 ### Retro
 
 ![JS8 QSL 1 TEST EXPORT.png](/images/JS8 QSL 1 TEST EXPORT.png)
+
+Per qualunque richiesta potete contattarci via E-mail o su Telegram 
