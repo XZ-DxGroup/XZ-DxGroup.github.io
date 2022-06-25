@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-**Hi we are a new International Dx Group**.
+**Hi! We are a new International Dx Group**.
 
 The idea of creating this group was born from a great desire to make radio and to meet new people in the amateur radio field.
 The main founders are from the internet, none really know each other, we just are ham radio enthusiast that likes to share knowledge with others that also likes to do so.
