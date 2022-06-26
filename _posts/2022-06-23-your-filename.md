@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Post 2
-published: false
+title: 06/22 Js8 Contest
+published: true
 ---
 ## Post 2
 
