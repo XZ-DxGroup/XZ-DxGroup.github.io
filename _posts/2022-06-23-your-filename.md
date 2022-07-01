@@ -24,4 +24,6 @@ Logs must be submitted at **xrayzulubureau@gmail.com** after the end of the acti
 1XZ/TN activated by Lorenzo 1XZ
 1XZ/PO activated by Nicola 1XZ008
 
-![]({{site.baseurl}}/images/JS8%20QSL%201%20TEST%20EXPORT.png)!
+![JS8 QSL 1 TEST EXPORT.png](/images/JS8 QSL 1 TEST EXPORT.png)
+
+## Do you want to join our group? please send an email to xrayzulubureau@gmail.com
