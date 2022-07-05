@@ -26,7 +26,7 @@ Logs must be submitted at **xrayzulubureau@gmail.com** after the end of the acti
 
 1XZ/RM activated by Federico 1XZ009
 
-1XZ/TN activated by Lorenzo 1XZ
+1XZ/TN activated by Lorenzo 1XZ256
 
 1XZ/PO activated by Nicola 1XZ008
 
